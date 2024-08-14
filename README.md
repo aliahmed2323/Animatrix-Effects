@@ -23,7 +23,6 @@
 ###
 
 <p align="left">- Rotate Effect</p>
-![image](https://github.com/user-attachments/assets/34aac5ed-4f88-4185-8aab-55c3eeddf8d4)
 
 
 ###
@@ -32,7 +31,10 @@
 
 ###
 
-<p align="left">- Punch Scale Effect<br>- Simple Scale Effect<br>- Group Scale Effect<br>- Group Scale with increment Effect</p>
+<p align="left">- Punch Scale Effect <br>
+  - Simple Scale Effect<br>
+  - Group Scale Effect<br>
+  - Group Scale with increment Effect</p>
 
 ###
 
