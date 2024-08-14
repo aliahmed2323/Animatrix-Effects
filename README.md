@@ -24,6 +24,7 @@
 
 <p align="left">- Rotate Effect</p>
 
+![image](https://github.com/user-attachments/assets/b388fdfa-91f7-4e53-aeae-eccb7f2325d1)
 
 ###
 
@@ -32,9 +33,18 @@
 ###
 
 <p align="left">- Punch Scale Effect <br>
+  ![image](https://github.com/user-attachments/assets/bd8e0838-45ad-444d-afc6-93c60fc6c32a) 
+  <br>
+
   - Simple Scale Effect<br>
+  ![image](https://github.com/user-attachments/assets/524d9c91-4a13-4022-b851-6931887eb149)
+  <br>
   - Group Scale Effect<br>
+  ![image](https://github.com/user-attachments/assets/9bfff8bf-541e-4b81-8147-79a23ab5b78a)
+<br>
+
   - Group Scale with increment Effect</p>
+![image](https://github.com/user-attachments/assets/2b817a9c-b9a5-488c-af10-f639c82ce061)
 
 ###
 
@@ -42,8 +52,15 @@
 
 ###
 
-<p align="left">- Anchor Simple Move<br>- Anchor Easing Move<br>- Anchor Group Move</p>
-
+<p align="left">- Anchor Simple Move<br>
+![image](https://github.com/user-attachments/assets/571eacd4-e2bb-4b77-a58d-ea02d5bd4458)
+<br>
+  - Anchor Easing Move<br>
+![image](https://github.com/user-attachments/assets/f1b92a1b-2dcb-4118-8173-d4f73b8400f1)
+<br>
+  - Anchor Group Move</p>
+![image](https://github.com/user-attachments/assets/df79fa5d-4b11-4fd5-a883-4df2fc54bed1)
+<br>
 ###
 
 <h3 align="center">Fade</h3>
@@ -51,5 +68,6 @@
 ###
 
 <p align="left">- Simple Fade</p>
+![image](https://github.com/user-attachments/assets/25331848-80bd-4951-a7a5-d644c0a422da)
 
 ###
