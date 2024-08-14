@@ -1,4 +1,4 @@
-<h1 align="center">Animatrix Effects</h1>
+<h1 align="center">Unity Animatrix Effects</h1>
 
 ###
 
