@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">- This is supposed to be used with DoTween as it is the backbone of this package.<br>- Download the unity package from here</p>
+<p align="left">- This is supposed to be used with <a href="https://assetstore.unity.com/packages/tools/animation/dotween-hotween-v2-27676?srsltid=AfmBOorF8JxMYN4ZutaHzt0ubU-_vaTzuAL8f787nmTN8jC8LBuA1I8z">DoTween</a> as it is the backbone of this package.<br>- Download the unity package from <a href="https://github.com/aliahmed616/Animatrix-Effects/releases/tag/Releases">here</a></p>
 
 ###
 
