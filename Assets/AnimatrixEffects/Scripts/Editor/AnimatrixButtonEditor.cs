@@ -3,7 +3,7 @@ using UnityEditor;
 using UnityEngine.UI;
 using System.Collections;
 
-namespace UIAnimatrix
+namespace Animatrix.CustomEditors
 {
 
     [CustomEditor(typeof(AnimatrixButton))]

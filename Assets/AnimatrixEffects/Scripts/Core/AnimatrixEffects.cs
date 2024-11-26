@@ -4,7 +4,7 @@ using UnityEngine;
 using DG.Tweening;
 using System;
 
-namespace UIAnimatrix
+namespace Animatrix
 {
     public class AnimatrixEffects : MonoBehaviour
     {

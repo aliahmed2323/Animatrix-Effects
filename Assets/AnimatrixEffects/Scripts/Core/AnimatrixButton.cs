@@ -6,7 +6,7 @@ using UnityEngine.UI;
 using System;
 using DG.Tweening;
 
-namespace UIAnimatrix
+namespace Animatrix
 {
     public class AnimatrixButton : Button 
     {

@@ -4,7 +4,7 @@ using UnityEngine.UI;
 using System.Collections;
 using UnityEditorInternal;
 
-namespace UIAnimatrix
+namespace Animatrix.CustomEditors
 {
 
     [CustomEditor(typeof(AnimatrixEffects))]
