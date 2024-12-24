@@ -20,10 +20,11 @@ namespace Animatrix.CustomEditors
             customButton.AddComponent<CanvasRenderer>();
             customButton.AddComponent<Image>(); // Add an Image for the background
                                                 // Add a Button component
-            AnimatrixButton animatrixButton = customButton.AddComponent<AnimatrixButton>();
+            customButton.AddComponent<AnimatrixButton>();
+
             // Optionally set default properties
             Image image = customButton.GetComponent<Image>();
-            image.color = Color.cyan; // Set the button background to cyan
+            image.color = Color.white; 
 
             // Set it as a child of the selected UI Canvas or create one if none exists
             GameObject parent = menuCommand.context as GameObject;
@@ -40,9 +41,21 @@ namespace Animatrix.CustomEditors
             }
             customButton.transform.SetParent(parent.transform, false);
 
+            GameObject text = new GameObject("Text");
+            text.transform.SetParent(customButton.transform);
+            RectTransform textRectTransform = text.AddComponent<RectTransform>();
+            text.AddComponent<CanvasRenderer>();
+            text.AddComponent<TMPro.TextMeshProUGUI>();
+            text.GetComponent<TMPro.TMP_Text>().text = "Animatrix Button";
+            text.GetComponent<TMPro.TMP_Text>().color = Color.black;
+            text.GetComponent<TMPro.TMP_Text>().alignment = TMPro.TextAlignmentOptions.Center;
+            
+
             // Set position and size
             rectTransform.anchoredPosition = Vector2.zero;
             rectTransform.sizeDelta = new Vector2(160, 30);
+            textRectTransform.anchoredPosition = Vector2.zero;
+            textRectTransform.sizeDelta = new Vector2(320, 60);
 
             // Register the creation for undo operations
             Undo.RegisterCreatedObjectUndo(customButton, "CreateAnimatrixButton");
