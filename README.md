@@ -79,9 +79,3 @@ Animatrix Effects was built to increase the speed and efficiency of UI animation
 `unity` &nbsp; `animation` &nbsp; `ui` &nbsp; `mobile` &nbsp; `game` &nbsp; `dotween` &nbsp; `animatrix`
 
 ---
-
-<div align="center">
-
-Made with ❤️ by [aliahmed2323](https://github.com/aliahmed2323)
-
-</div>
